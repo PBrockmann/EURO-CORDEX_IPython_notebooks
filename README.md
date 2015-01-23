@@ -6,3 +6,9 @@ Use of bokeh and IPython widgets
 
 Linked plots
 ![ScreenShot](snapshot_02.png)
+
+You can read the html from 
+http://nbviewer.ipython.org/github/PBrockmann/EURO-CORDEX_IPython_notebooks/tree/master/
+
+Plots produced with bokeh are still interactive !
+Please visit http://bokeh.pydata.org
