@@ -11,4 +11,5 @@ You can read the html from
 http://nbviewer.ipython.org/github/PBrockmann/EURO-CORDEX_IPython_notebooks/tree/master/
 
 Plots produced with bokeh are still interactive !
+From a static document to dynamic interaction. 
 Please visit http://bokeh.pydata.org
